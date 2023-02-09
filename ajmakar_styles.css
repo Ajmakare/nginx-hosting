@@ -1,0 +1,18 @@
+  :root {
+    --primary-color: #f1f1f1;
+    --secondary-color: #e5e5e5;
+  }
+
+  section {
+    padding: 2rem 0;
+    background-color: var(--primary-color);
+  }
+
+  #about-me {
+    background-color: var(--secondary-color);
+  }
+  #photos img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
